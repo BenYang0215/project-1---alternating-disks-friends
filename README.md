@@ -3,6 +3,6 @@ Alternating disks
 
 Group members:
 
-Ada Lovelace adalovelace@csu.fullerton.edu
+Benjamin Yang eternaldj4@csu.fullerton.edu
 
-Charles Babbage charlesbab@csu.fullerton.edu
+Gurman Gill
